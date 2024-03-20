@@ -10,7 +10,7 @@ email: daneshisajad60@gmail.com
 
 
 linkedin_username: data777
-github_username: saja
+github_username: daneshisajad
 
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
