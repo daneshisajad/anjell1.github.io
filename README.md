@@ -33,7 +33,7 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
 
 ```html
-<a aria-label="My Github" target="_blank" href="https://github.com/daneshisajad">
+<a aria-label="My Github" target="_blank" href="">
   <i class="icon fa fa-github-alt" aria-hidden="true"></i>
 </a>
 ```
