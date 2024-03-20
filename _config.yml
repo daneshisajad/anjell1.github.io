@@ -1,13 +1,13 @@
 # Site settings
-title: Amirhosien Arab
+title: Sajad Daneshi
 description: anjell theme 1
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Amirhosien Arab
-user_description: I'm a data scientist from Iran, Graduated from Semnan University's Bachelor of Statistics course,Data analysis with Python and R programming languages and Minitab and SPSS software.
-user_title: Data Analyst
+user_description: I'm a data scientist from Iran, Graduated from Semnan University's Bachelor of Statistics course,Data analysis with Python and R programming languages software.
+user_title: Data Scientist
 email: amirxamarin@outlook.com
 
 
