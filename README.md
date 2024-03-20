@@ -1,4 +1,4 @@
-# Anjell Resume Theme
+# Daneshi Resume Theme
 
 
 
